@@ -16,6 +16,10 @@ docs/html
 */*/debug
 */*/release
 
+# Mac Build
+src/Makefile.*
+*.app/
+
 # Visual studio
 *.suo
 *.ncb
